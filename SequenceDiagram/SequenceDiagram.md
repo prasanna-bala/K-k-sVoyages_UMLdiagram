@@ -8,5 +8,5 @@ The following nodes and edges are typically drawn in a UML sequence diagram: lif
 
 ### Sequence page
 
-![ScreenShot](../Images/classdiagram.png)
+![ScreenShot](../Images/Sequencediagram.png)
  
